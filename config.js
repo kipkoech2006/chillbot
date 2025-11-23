@@ -10,7 +10,7 @@ const CONFIG = {
         }
         
         // Production - UPDATE THIS AFTER DEPLOYING BACKEND TO RAILWAY
-        return 'dex-production-7cf7.up.railway.app';
+        return 'https://dex-production-7cf7.up.railway.app';
     })(),
     
     USER_ID_PREFIX: 'user_',
